@@ -1,2 +1,2 @@
 # Analisis-Sentimen-Dompet-Digital
-just a project
+Open the skripsi_willi 
